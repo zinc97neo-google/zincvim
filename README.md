@@ -25,8 +25,7 @@ nix run github:zinc97neo-google/zincvim
 需要在`fale.nix`中引入
 
 ```nix
-{
-....
+{ ... }:
 inputs = {
   zincvim.url = "github:zinc97neo-google/zincvim";
 }
@@ -44,4 +43,3 @@ inputs = {
   ];
 }
 ```
-
