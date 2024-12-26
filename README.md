@@ -46,6 +46,16 @@ inputs = {
 
 ## 插件
 
+### editor
+
+| Name | Description |
+| ---- | ----------- |
+| [toggleterm](https://github.com/akinsho/toggleterm.nvim) | 终端 |
+| [telescope](https://github.com/nvim-telescope/telescope.nvim) | 检索工具 |
+| [oil](https://github.com/stevearc/oil.nvim) | 目录编辑 |
+| [which-key](https://github.com/folke/which-key.nvim) | 快捷键提示 |
+| [yazi](https://github.com/mikavilpas/yazi.nvim) | 文件管理器 |
+
 ### UI
 
 | Name | Description |

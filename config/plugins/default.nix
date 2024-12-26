@@ -5,5 +5,6 @@
     ./treesitter.nix
     ./lsp.nix
     ./cmp.nix
+    ./editor.nix
   ];
 }
