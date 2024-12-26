@@ -27,7 +27,6 @@
     };
     web-devicons.enable = true;
     lualine.enable = true;
-    treesitter-context.enable = true;
     barbecue.enable = true;
     nvim-autopairs.enable = true;
     nui.enable = true;

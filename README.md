@@ -61,3 +61,10 @@ inputs = {
 | [noice](https://github.com/folke/noice.nvim) | ui美化 |
 | [rainbow-delimiters](https://github.com/HiPhish/rainbow-delimiters.nvim) | 多彩括号 |
 | [notify](https://github.com/rcarriga/nvim-notify) | 信息美化 | 
+
+### treesitter
+
+| Name | Description |
+| ---- | ----------- |
+| [treesitter](https://github.com/nvim-treesitter/nvim-treesitter) | 语法高亮插件 |
+| [treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) | 显示当前代码所属于代码块 |

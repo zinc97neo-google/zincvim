@@ -28,5 +28,6 @@
         ];
       };
     };
+    treesitter-context.enable = true;
   };
 }
