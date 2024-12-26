@@ -25,5 +25,29 @@
         };
       };
     };
+    web-devicons.enable = true;
+    lualine.enable = true;
+    treesitter-context.enable = true;
+    barbecue.enable = true;
+    nvim-autopairs.enable = true;
+    nui.enable = true;
+    noice.enable = true;
+    rainbow-delimiters.enable = true;
+    notify = {
+      enable = true;
+      render = "wrapped-compact";
+      timeout = 2500;
+    };
+    illuminate = {
+      enable = true;
+      underCursor = false;
+      filetypesDenylist = [
+        "Outline"
+        "TelescopePrompt"
+        "alpha"
+        "harpoon"
+        "reason"
+      ];
+    };
   };
 }

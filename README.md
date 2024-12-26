@@ -52,3 +52,12 @@ inputs = {
 | ---- | ----------- |
 | [catppuccin](https://github.com/catppuccin/nvim) | 颜色主题包 |
 | [colorizer](https://github.com/norcalli/nvim-colorizer.lua) | 预览RGB颜色 |
+| [web-devicons](https://github.com/nvim-tree/nvim-web-devicons) | 常见的icon |
+| [lualine](https://github.com/nvim-lualine/lualine.nvim) | 文件状态栏 |
+| [treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) | 显示当前代码所属于代码块 |
+| [barbecue](https://github.com/utilyre/barbecue.nvim) | 类似vscode的winbar |
+| [nvim-autopairs](https://github.com/windwp/nvim-autopairs) | 自动匹配对应的括号 |
+| [nui](https://github.com/MunifTanjim/nui.nvim) | ui组件库 |
+| [noice](https://github.com/folke/noice.nvim) | ui美化 |
+| [rainbow-delimiters](https://github.com/HiPhish/rainbow-delimiters.nvim) | 多彩括号 |
+| [notify](https://github.com/rcarriga/nvim-notify) | 信息美化 | 
