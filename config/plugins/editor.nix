@@ -45,6 +45,11 @@
             group = "+3 Git action";
             icon = "";
           }
+          {
+            __unkeyed-1 = "<leader>s";
+            group = "+2 Session action";
+            icon = "󰻋";
+          }
         ];
         win = {
           border = "rounded";
@@ -57,6 +62,7 @@
       };
     };
     yazi.enable = true;
+    auto-session.enable = true;
   };
   keymaps = [
     # toggleterm
@@ -118,6 +124,23 @@
       action = "<cmd>Yazi toggle<CR>";
       options = {
         desc = "Resume the last yazi session";
+      };
+    }
+    # auto-session
+    {
+      mode = "n";
+      key = "<leader>sd";
+      action = ":SessionDelete";
+      options = {
+        desc = "session delete";
+      };
+    }
+    {
+      mode = "n";
+      key = "<leader>ss";
+      action = "<cmd>SessionSearch<CR>";
+      options = {
+        desc = "session search";
       };
     }
   ];
