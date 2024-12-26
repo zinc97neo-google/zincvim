@@ -68,3 +68,11 @@ inputs = {
 | ---- | ----------- |
 | [treesitter](https://github.com/nvim-treesitter/nvim-treesitter) | 语法高亮插件 |
 | [treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) | 显示当前代码所属于代码块 |
+
+### lsp
+
+| Name | Description |
+| ---- | ----------- |
+| [fidget](https://github.com/j-hui/fidget.nvim) | lsp加载信息优化 |
+| [lsp](https://github.com/neovim/nvim-lspconfig) | 语言服务协议 |
+| [rust](https://github.com/mrcjkb/rustaceanvim) | rust拓展 |
