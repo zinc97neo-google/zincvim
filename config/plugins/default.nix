@@ -7,5 +7,6 @@
     ./cmp.nix
     ./editor.nix
     ./git.nix
+    ./preview.nix
   ];
 }

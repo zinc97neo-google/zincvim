@@ -50,6 +50,11 @@
             group = "+2 Session action";
             icon = "󰻋";
           }
+          {
+            __unkeyed-1 = "<leader>G";
+            group = "+6 Preview";
+            icon = "";
+          }
         ];
         win = {
           border = "rounded";

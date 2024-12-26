@@ -109,3 +109,9 @@ inputs = {
 | [diffview](https://github.com/sindrets/diffview.nvim) | 查看git diff的窗口 |
 | [git-conflict](https://github.com/akinsho/git-conflict.nvim) | 处理冲突 |
 | [gitmessenger](https://github.com/rhysd/git-messenger.vim) | git记录弹窗 |
+
+### others
+
+| Name | Description |
+| ---- | ----------- |
+| [goto-preview](https://github.com/rmagatti/goto-preview) | 预览代码定义/实现弹窗 |
