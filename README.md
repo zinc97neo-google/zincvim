@@ -76,3 +76,16 @@ inputs = {
 | [fidget](https://github.com/j-hui/fidget.nvim) | lsp加载信息优化 |
 | [lsp](https://github.com/neovim/nvim-lspconfig) | 语言服务协议 |
 | [rust](https://github.com/mrcjkb/rustaceanvim) | rust拓展 |
+
+### cmp
+
+| Name | Description |
+| ---- | ----------- |
+| [cmp](https://github.com/hrsh7th/nvim-cmp) | 代码补全 |
+| [cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp) | 语言服务协议补全 |
+| [cmp-path](https://github.com/hrsh7th/cmp-path) | 路径补全 |
+| [cmp-emoji](https://github.com/hrsh7th/cmp-emoji) | 表情包补全 |
+| [cmp-cmdline](https://github.com/hrsh7th/cmp-cmdline) | 命令行补全 |
+| [cmp-buffer](https://github.com/hrsh7th/cmp-cmdline) | buffer补全 |
+| [cmp_luasnip](https://github.com/saadparwaiz1/cmp_luasnip) | 自定义补全 |
+| [luasnip](https://github.com/L3MON4D3/LuaSnip) | 自定义补全文件 |
