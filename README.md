@@ -55,6 +55,7 @@ inputs = {
 | [oil](https://github.com/stevearc/oil.nvim) | 目录编辑 |
 | [which-key](https://github.com/folke/which-key.nvim) | 快捷键提示 |
 | [yazi](https://github.com/mikavilpas/yazi.nvim) | 文件管理器 |
+| [auto-session](https://github.com/rmagatti/auto-session) | 会话管理 |
 
 ### UI
 
