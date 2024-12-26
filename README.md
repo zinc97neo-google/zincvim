@@ -51,3 +51,4 @@ inputs = {
 | Name | Description |
 | ---- | ----------- |
 | [catppuccin](https://github.com/catppuccin/nvim) | 颜色主题包 |
+| [colorizer](https://github.com/norcalli/nvim-colorizer.lua) | 预览RGB颜色 |
