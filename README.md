@@ -99,3 +99,12 @@ inputs = {
 | [cmp-buffer](https://github.com/hrsh7th/cmp-cmdline) | buffer补全 |
 | [cmp_luasnip](https://github.com/saadparwaiz1/cmp_luasnip) | 自定义补全 |
 | [luasnip](https://github.com/L3MON4D3/LuaSnip) | 自定义补全文件 |
+
+### git
+
+| Name | Description |
+| ---- | ----------- |
+| [gitsigns](https://github.com/lewis6991/gitsigns.nvim) | 缓冲区git集成 |
+| [diffview](https://github.com/sindrets/diffview.nvim) | 查看git diff的窗口 |
+| [git-conflict](https://github.com/akinsho/git-conflict.nvim) | 处理冲突 |
+| [gitmessenger](https://github.com/rhysd/git-messenger.vim) | git记录弹窗 |

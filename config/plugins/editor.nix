@@ -40,6 +40,11 @@
             group = "+3 Yazi";
             icon = "";
           }
+          {
+            __unkeyed-1 = "<leader>g";
+            group = "+3 Git action";
+            icon = "";
+          }
         ];
         win = {
           border = "rounded";
