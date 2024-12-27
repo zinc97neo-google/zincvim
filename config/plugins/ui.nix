@@ -48,5 +48,33 @@
         "reason"
       ];
     };
+    bufferline = {
+      enable = true;
+      settings = {
+        options = {
+          always_show_bufferline = false;
+          diagnostics = "nvim_lsp";
+        };
+      };
+    };
   };
+  keymaps = [
+    # Bufferline bindings
+    {
+      mode = "n";
+      key = "<S-l>";
+      action = "<cmd>BufferLineCycleNext<cr>";
+      options = {
+        desc = "Cycle to next buffer";
+      };
+    }
+    {
+      mode = "n";
+      key = "<S-h>";
+      action = "<cmd>BufferLineCyclePrev<cr>";
+      options = {
+        desc = "Cycle to previous buffer";
+      };
+    }
+  ];
 }

@@ -72,6 +72,7 @@ inputs = {
 | [noice](https://github.com/folke/noice.nvim) | ui美化 |
 | [rainbow-delimiters](https://github.com/HiPhish/rainbow-delimiters.nvim) | 多彩括号 |
 | [notify](https://github.com/rcarriga/nvim-notify) | 信息美化 | 
+| [bufferline](https://github.com/akinsho/bufferline.nvim) | 缓冲区 |
 
 ### treesitter
 
